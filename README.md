@@ -60,11 +60,10 @@ my-streamlit-app/
 ---
 
 ## 🔗 Important Links  
-- **EDA Notebook:** [https://github.com/harshita485/Harshita-OL-25-LP-046/edit/main/eda.ipynb](#)
-- **Supervised Notebook:** [https://github.com/harshita485/Harshita-OL-25-LP-046/edit/main/supervised.ipynb](#)
-- **Unsupervised Notebook:** [https://github.com/harshita485/Harshita-OL-25-LP-046/edit/main/unsupervised.ipynb](#)
-- **Streamlit App:** [https://mental-health-predictor-hk.streamlit.app/](#)  
-
+- *EDA Notebook:* [EDA Notebook](https://github.com/harshita485/Harshita-OL-25-LP-046/blob/main/eda.ipynb)  
+- *Supervised Notebook:* [Supervised Notebook](https://github.com/harshita485/Harshita-OL-25-LP-046/blob/main/supervised.ipynb)  
+- *Unsupervised Notebook:* [Unsupervised Notebook](https://github.com/harshita485/Harshita-OL-25-LP-046/blob/main/unsupervised.ipynb)  
+- *Streamlit App:* [Mental Health Predictor](https://mental-health-predictor-hk.streamlit.app/)
 
 ## Demo  
 
