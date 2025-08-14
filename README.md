@@ -69,7 +69,7 @@ my-streamlit-app/
 
 Watch the project in action:  
 
-- **Streamlit App Demo:** [https://mental-health-predictor-hk.streamlit.app/](#)  
+- **Streamlit App Demo:**[App Demo](https://mental-health-predictor-hk.streamlit.app/) 
 
 ---
 
