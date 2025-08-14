@@ -75,12 +75,12 @@ Watch the project in action:
 ---
 
 ### Screenshots  
-- Dashboard Overview[]
-- EDA Insights  
-- Model Results
+- ![Dashboard Overview](dashboard.png)
+- ![EDA Insights](eda.png)
+-![ Model Results](model.png)
 
 
-e
+
 
 ## Acknowledgements
 - Dataset Source: [Mental Health in Tech Survey](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)
