@@ -50,10 +50,10 @@ my-streamlit-app/
 │   ├─ unsupervised.py
 │   └─ predict_age.py
 |   |__ treatment.py
-├─ requirements.txt           # Python packages needed
-├─ runtime.txt                # Python version for Streamlit Cloud (optional)
-├─ README.md                  # Project description + live app link
-└─ .gitignore                 # Ignore unnecessary files like __pycache__, venv, etc.
+├─ requirements.txt           
+├─ runtime.txt                
+├─ README.md                  
+└─ .gitignore                 
 
 ```
 
